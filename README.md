@@ -1,4 +1,4 @@
-🏏 IPL Match Winner Predictor (2008–2024)
+🏏 IPL Match Winner Predictor
 
 A machine learning–based web application that predicts the winner of an IPL match using pre-match information only such as teams, venue, and toss details.
 The model is trained on historical IPL data and deployed using Streamlit.
